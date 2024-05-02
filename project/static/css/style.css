@@ -1,0 +1,42 @@
+.contents {
+  margin-top: 100px;
+}
+
+.my-header {
+  position: fixed;
+  z-index: 99;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.my-contents {
+  @media screen and(min-width: 1024px) {
+    padding: 0 300 0 300 !important
+  }
+}
+
+.my_ul {
+  margin: 0 0 0 auto;
+}
+
+.my-card {
+  width: 300px;
+  height: 300px;
+}
+
+
+
+
+
+
+
+
+/* .img-area {
+  height: 50%;
+}
+
+.text-area {
+  height: 50%;
+} */
